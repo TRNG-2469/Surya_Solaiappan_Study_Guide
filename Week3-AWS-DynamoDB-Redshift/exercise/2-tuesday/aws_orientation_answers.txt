@@ -1,0 +1,25 @@
+Q1: What is the primary AWS Region shown in the top-right corner of your console menu?
+
+United States (N. Virginia)
+Q2: Navigate to the RDS Console. Under "Databases", are there any active databases running in you
+r account currently?
+
+No
+
+Q3: In the DynamoDB Console, what are the names of the menu options listed under the "Data catalog" or "Tables" sections on the left-side navigation pane?
+
+Explore items
+PartiQL editor
+Backups
+Exports to S3
+Imports from S3
+Integrations
+Reserved capacity
+Settings
+
+Q4: What are the three service categories that RDS is classified under (e.g. databases, compute, network)?
+
+Compute, Service, Storage
+
+
+aws_notes URL: https://us-east-1.console.aws.amazon.com/s3/object/techmart-exports-surya-2026-08-04-122407465298-us-east-1-an?region=us-east-1&prefix=aws_notes.txt

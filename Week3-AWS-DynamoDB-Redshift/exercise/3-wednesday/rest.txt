@@ -1,0 +1,20 @@
+SOAP
+XML
+
+REST 
+HTTP - stateless, doesn't remember previous requests
+
+client server architecture
+
+
+session id
+
+http request
+http response
+http session - 3 objects
+
+URL & Endpoints
+
+
+
+context object

@@ -2,19 +2,16 @@ package com.rev.rest.springg.service;
 
 import com.rev.rest.springg.exceptions.StudentNotFoundException;
 import com.rev.rest.springg.model.Student;
-import com.rev.rest.springg.repositories.StudentRespository;
+import com.rev.rest.springg.repositories.StudentRepository;
 import org.springframework.stereotype.Service;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 @Service
 public class StudentService {
-    private final StudentRespository studentRepository;
+    private final StudentRepository studentRepository;
 
-    public StudentService(StudentRespository studentRepository) {
+    public StudentService(StudentRepository studentRepository) {
         this.studentRepository = studentRepository;
     }
 

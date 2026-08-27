@@ -1,0 +1,8 @@
+HTML 
+CSS 
+JAVA SCRIPT
+
+BROWSER DOES NOT UNDERSTAND TYPESCRIPT
+
+transpilation
+typescript --> javascript

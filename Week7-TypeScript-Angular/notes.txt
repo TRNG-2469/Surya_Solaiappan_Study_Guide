@@ -1,0 +1,11 @@
+convert character to int java -- ascii value
+(typecasting)
+
+convert to actual value
+- '0'
+
+WHERE - FITLER GROUPS BEFORE THEY ARE GROUPED
+
+ORDER BY - options are what you have in select * from _____
+
+transacction -- can have commit rollback, executed as a single unit  

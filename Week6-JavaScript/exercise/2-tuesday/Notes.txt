@@ -1,0 +1,39 @@
+==================================================
+THE 2 FILES
+==================================================
+
+- Class (.ts file): ______.component.ts
+  Holds the TypeScript variables and functions
+
+- Template (.html file): _____.component.html
+  Holds the HTML layout and binding markup ({{ }}, [ ], ( ), [( )]).
+
+
+==================================================
+THE 3 TYPES OF BINDING & CLASSES USED
+==================================================
+
+1. SOURCE TO VIEW (ONE-WAY)
+- Direction: Class -> Template
+- Syntax:
+    * {{ expr }} (Interpolation)
+    * [prop]="expr" (Property Binding)
+- What It Uses:
+    Reads variables/properties from your Component Class (.ts) to render in the Template (.html).
+
+
+2. VIEW TO SOURCE (ONE-WAY)
+- Direction: Template -> Class
+- Syntax:
+    * (event)="fn()" (Event Binding)
+- What It Uses:
+    User action in the Template (.html) calls a method in your Component Class (.ts).
+
+
+3. TWO-WAY (BIDIRECTIONAL)
+- Direction: Class <-> Template
+- Syntax:
+    * [(ngModel)]="prop" (Banana-in-a-box)
+
+
+ngSrc for images

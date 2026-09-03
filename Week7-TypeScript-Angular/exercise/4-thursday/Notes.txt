@@ -1,0 +1,4 @@
+ng g p pipe
+ng g c component
+ng g s service
+ng g g guard
